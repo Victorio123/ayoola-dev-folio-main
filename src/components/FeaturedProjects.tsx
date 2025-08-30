@@ -28,7 +28,7 @@ const FeaturedProjects = () => {
       title: "AgriTech Management",
       description: "Comprehensive web application for livestock production and breeding management with real-time analytics, IoT integration, and data-driven insights.",
       technologies: ["React", "Typescript", "IoT", "Analytics"],
-      link: "#",
+      link: "https://nextgen-breeders-alliance.vercel.app/",
       github: "https://github.com/Victorio123/nextgen-breeders-hub", 
       status: "IoT Integrated",
       highlight: "AgriTech Solution"
