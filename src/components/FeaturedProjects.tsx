@@ -6,6 +6,15 @@ import { ExternalLink, Github, Star, TrendingUp } from "lucide-react";
 
 const FeaturedProjects = () => {
   const featuredProjects = [
+      {
+      title: "AgriTech AI webapp",
+      description: "Comprehensive web application for crop production and disease checking management with real-time analytics, API integration, and data-driven insights.",
+      technologies: ["React", "Typescript", "AI", "Analytics"],
+      link: "https://nextgen-breeders-alliance.vercel.app/",
+      github: "https://github.com/Victorio123/nextgen-breeders-hub", 
+      status: "AI Integrated",
+      highlight: "AgriTech Solution"
+    },
     {
       title: "New Ecom",
       description: "A modern e-commerce platform built with React and Node.js, featuring seamless shopping experiences, advanced product filtering, and secure payment integration.",
