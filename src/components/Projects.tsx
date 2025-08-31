@@ -19,31 +19,31 @@ const Projects = () => {
     {
       title: "Hospital Website with AI Assistant",
       description: "Integrates an AI assistant to help patients schedule appointments, access hospital information, and navigate services.",
-      link: "https://github.com/Victorio123",
+      link: "",
       github: "https://github.com/Victorio123/bob_med-main"
     },
     {
       title: "AgriTech Web App",
       description: "A web application for livestock production and breeding management. Provides data-driven insights and monitoring tools for farmers.",
-      link: "https://github.com/Victorio123",
+      link: "https://nextgen-breeders-alliance.vercel.app/",
       github: "https://github.com/Victorio123/nextgen-breeders-hub"
     },
     {
       title: "Donation Landing Page",
       description: "Includes a pitch deck and Paystack payment gateway integration for secure and seamless donations.",
-      link: "https://github.com/Victorio123",
+      link: "https://donationland.netlify.app/",
       github: "https://github.com/Victorio123/donation-landing-page"
     },
     {
       title: "Investment platform",
       description: "A responsive web application that allows users track and manage their investments seamlessly and Paystack payment gateway integration for secure and seamless donations.",
-      link: "https://github.com/Victorio123",
+      link: "https://alpha-production-923f.up.railway.app/index.php",
       github: "https://github.com/Victorio123/alpha"
     },
     {
       title: "Responsive Login and Sign-Up Page",
       description: "Fully responsive authentication page for user registration and login, optimized for all devices.",
-      link: "https://github.com/Victorio123",
+      link: "https://signinsnup.netlify.app/",
       github: "https://github.com/Victorio123/react-auth-assignment"
     }
   ];
