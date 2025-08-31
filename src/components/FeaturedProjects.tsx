@@ -7,7 +7,7 @@ import { ExternalLink, Github, Star, TrendingUp } from "lucide-react";
 const FeaturedProjects = () => {
   const featuredProjects = [
       {
-      title: "AgriTech AI webapp",
+      title: "CropTech AI Webapp",
       description: "Comprehensive web application for crop production and disease checking management with real-time analytics, API integration, and data-driven insights.",
       technologies: ["React", "Typescript", "AI", "Analytics"],
       link: "https://nextgen-breeders-alliance.vercel.app/",
