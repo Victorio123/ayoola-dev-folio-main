@@ -13,7 +13,7 @@ const Projects = () => {
     {
       title: "New Ecom",
       description: "An e-commerce website for gadgets and fashion. Features smooth shopping experience, product listings, and intuitive navigation.",
-      link: "https://github.com/Victorio123",
+      link: "https://ebobs-main-production.up.railway.app/#",
       github: "https://github.com/Victorio123/eBobs-main"
     },
     {
