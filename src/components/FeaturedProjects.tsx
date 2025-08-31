@@ -19,7 +19,7 @@ const FeaturedProjects = () => {
       title: "New Ecom",
       description: "A modern e-commerce platform built with React and Node.js, featuring seamless shopping experiences, advanced product filtering, and secure payment integration.",
       technologies: ["React", "Node.js", "MongoDB", "Fullstack"],
-      link: "#",
+      link: "https://ebobs-main-production.up.railway.app/#",
       github: "https://github.com/Victorio123/eBobs-main",
       status: "Production Ready",
       highlight: "Full Stack E-commerce"
@@ -46,7 +46,7 @@ const FeaturedProjects = () => {
       title: "Donation Platform",
       description: "Professional donation landing page with integrated pitch deck presentation and secure Paystack payment gateway for seamless contribution processing.",
       technologies: ["React", "Paystack", "PHP", "MySQL"],
-      link: "#",
+      link: "https://donationland.netlify.app/",
       github: "https://github.com/Victorio123/donation-landing-page",
       status: "Payment Integrated",
       highlight: "Fintech Solution"
@@ -55,7 +55,7 @@ const FeaturedProjects = () => {
       title: "Investment Platform",
       description: "A responsive web application that allows users track and manage their investments seamlessly and Paystack payment gateway integration for secure and seamless donations.",
       technologies: ["Javascript", "Paystack", "PHP", "MySQL"],
-      link: "#",
+      link: "https://alpha-production-923f.up.railway.app/index.php",
       github: "https://github.com/Victorio123/alpha",
       status: "Payment Integrated",
       highlight: "Fintech Solution"
