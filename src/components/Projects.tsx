@@ -6,8 +6,8 @@ const Projects = () => {
   const projects = [
      {
       title: "CropTech AI Webapp",
-      description: "Comprehensive web application for crop production and disease checking management with real-time analytics, API integration, and data-driven insights.",
-      link: "https://nextgen-breeders-alliance.vercel.app/",
+      description: "Comprehensive web application for crop production and disease checking management with real-time drone analytics, API integration, and data-driven insights.",
+      link: "https://crop-ai-six.vercel.app/",
       github: "https://github.com/Victorio123/nextgen-breeders-hub", 
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: "Hospital Website with AI Assistant",
       description: "Integrates an AI assistant to help patients schedule appointments, access hospital information, and navigate services.",
-      link: "",
+      link: "https://bob-med.vercel.app/",
       github: "https://github.com/Victorio123/bob_med-main"
     },
     {
