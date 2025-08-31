@@ -45,7 +45,7 @@ const FeaturedProjects = () => {
     {
       title: "Donation Platform",
       description: "Professional donation landing page with integrated pitch deck presentation and secure Paystack payment gateway for seamless contribution processing.",
-      technologies: ["React", "Paystack", "PHP", "MySQL"],
+      technologies: ["HTML", "Paystack", "CSS", "MySQL"],
       link: "https://donationland.netlify.app/",
       github: "https://github.com/Victorio123/donation-landing-page",
       status: "Payment Integrated",
