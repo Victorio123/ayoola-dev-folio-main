@@ -8,9 +8,9 @@ const FeaturedProjects = () => {
   const featuredProjects = [
       {
       title: "CropTech AI Webapp",
-      description: "Comprehensive web application for crop production and disease checking management with real-time analytics, API integration, and data-driven insights.",
+      description: "Comprehensive web application for crop production and disease checking management with real-time drone analytics, API integration, and data-driven insights.",
       technologies: ["React", "Typescript", "AI", "Analytics"],
-      link: "https://nextgen-breeders-alliance.vercel.app/",
+      link: "https://crop-ai-six.vercel.app/",
       github: "https://github.com/Victorio123/nextgen-breeders-hub", 
       status: "AI Integrated",
       highlight: "AgriTech Solution"
@@ -29,7 +29,7 @@ const FeaturedProjects = () => {
       description: "Revolutionary healthcare platform integrating AI-powered assistant for appointment scheduling, patient management, and intelligent healthcare navigation.",
       technologies: ["Next.js", "AI/ML", "PostgreSQL", "Typescript"],
       link: "#", 
-      github: "https://github.com/Victorio123/bob_med-main",
+      github: "https://bob-med.vercel.app/",
       status: "AI Powered",
       highlight: "Healthcare Innovation"
     },
