@@ -5,7 +5,7 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
      {
-      title: "AgriTech AI Webapp",
+      title: "CropTech AI Webapp",
       description: "Comprehensive web application for crop production and disease checking management with real-time analytics, API integration, and data-driven insights.",
       link: "https://nextgen-breeders-alliance.vercel.app/",
       github: "https://github.com/Victorio123/nextgen-breeders-hub", 
